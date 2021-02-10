@@ -3,7 +3,7 @@ This project is made to help me finish my research as bachelor student.
 Here, I did spatial analysis to find suitable location for the development of offshore wind turbine in South Sulawesi,
 
 # whom is this code for
-- this project is intended for indonesian researcher who are interested to do similar research
+- this project is intended for indonesian researcher who are interested to do similar research (some part of the code are written in Bahasa)
 - this code uses pandas and matplotlib frequently, so I assumed that the reader will understand the uses of both beforehand
 
 # code
