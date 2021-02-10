@@ -14,8 +14,8 @@ There are four notebooks, each is for:
 - cost benefit analysis, following some equations from some research
 - data visualization, especially using heatmap
 
-# file
+# files
 the source data that is required to be able to run the code are:
 - wind data from: http://indonesia.windprospecting.com. the download link is available in csv folder
-- elevation raster data from: http://tides.big.go.id/DEMNAS/. the file is avaliable in the figure folder
-- other necessary file is available in csv folder as well
+- elevation raster data from: http://tides.big.go.id/DEMNAS/. you have to sign up first. go to BATNAS section and download the raster file for latitude:-5 to -10 and longitude: 115 to 120.
+- other necessary files are available in csv folder
